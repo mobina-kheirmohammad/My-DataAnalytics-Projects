@@ -11,7 +11,7 @@ I am passionate about learning data analysis using Python, Pandas, SQL, and visu
 - Identified prescription as well as readmission patterns and correlations
 - Tools: MySQL, Microsoft Power BI
   
-🩸🏥📊### 2. [Diabetes Hospital Dataset_Visualization](Project2-Tableau-Visualization)
+🩸🏥📊### 2. [Diabetes Hospital Dataset Visualization](Project2-Tableau-Visualization)
 - Visualized some insights from Diabetes Hospital Dataset
 - Used Tableau and created a dashboard
 
@@ -20,11 +20,11 @@ I am passionate about learning data analysis using Python, Pandas, SQL, and visu
 - Used Pandas, Numpy, Seaborn, and Matplotlib
 - Visualized happiness trends across countries and years
 
-🎬### 4. [Python_Web Scraping](Project4-Python-Web-Scraping)
+🎬### 4. [Python Web Scraping](Project4-Python-Web-Scraping)
 - Created a CSV output with all the Oscar-winning movies extracted from Wikipedia
 - Used BeautifulSoup, requests
 
-🩺### 5. [BMI_Calculator_in_Python](Project5-Python-BMI-Calculator)
+🩺### 5. [BMI Calculator in Python](Project5-Python-BMI-Calculator)
 - Developed an interactive Body Mass Index (BMI) calculator in Python with an interpretation (e.g., underweight, normal, overweight).
 - Used Jupyter Notebook
 
