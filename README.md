@@ -11,7 +11,7 @@ I am passionate about learning data analysis using Python, Pandas, SQL, and visu
 - Identified prescription as well as readmission patterns and correlations
 - Tools: MySQL, Microsoft Power BI
   
-🩸🏥📊### 2. [Diabetes Hospital Dataset](Project2-Tableau-Visualization)
+🩸🏥📊### 2. [Diabetes Hospital Dataset_Visualization](Project2-Tableau-Visualization)
 - Visualized some insights from Diabetes Hospital Dataset
 - Used Tableau and created a dashboard
 
