@@ -20,10 +20,13 @@ I am passionate about learning data analysis using Python, Pandas, SQL, and visu
 - Used Pandas, Numpy, Seaborn, and Matplotlib
 - Visualized happiness trends across countries and years
 
-🎬🩺### 4&5. [Python_Web Scraping_and_BMI_Calculator](Project4-Python-Web-Scraping,Project5-Python-BMI-Calculator)
+🎬### 4. [Python_Web Scraping](Project4-Python-Web-Scraping)
 - Created a CSV output with all the Oscar-winning movies extracted from Wikipedia
+- Used BeautifulSoup, requests
+
+🩺### 5. [BMI_Calculator_in_Python](Project5-Python-BMI-Calculator)
 - Developed an interactive Body Mass Index (BMI) calculator in Python with an interpretation (e.g., underweight, normal, overweight).
-- Used BeautifulSoup, requests, and Jupyter Notebook
+- Used Jupyter Notebook
 
 ### I have also worked on a number of other projects, in which I explored, cleaned, analyzed, and visualized different datasets. You can find them here!
 
