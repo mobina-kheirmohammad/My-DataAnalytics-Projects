@@ -6,7 +6,7 @@ I am passionate about learning data analysis using Python, Pandas, SQL, and visu
 
 ## 📑 Projects
 
-🩸🏥### 1. [Diabetes Hospital Dataset](Project1-Diabetes/MySQL_project_script.sql&Visualization.pbix)
+🩸🏥### 1. [Diabetes Hospital Dataset]([Project1-Diabetes/MySQL_project_script.sql&Visualization.pbix](https://github.com/mobina-kheirmohammad/My-DataAnalytics-Projects/tree/main/Project1-Diabetes))
 - Explored hospital data of diabetic patients
 - Identified prescription as well as readmission patterns and correlations
 - Tools: MySQL, Microsoft Power BI
