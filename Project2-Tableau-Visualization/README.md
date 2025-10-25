@@ -12,7 +12,7 @@ To transform complex hospital data on diabetic patients into **clear, interactiv
 
 ---
 
-## 📂 Dataset
+## 🗄 Dataset
 - **Source:** [Diabetes 130-US Hospitals Dataset (UCI / Kaggle)](https://www.kaggle.com/datasets/brandao/diabetes)  
 - **Records:** 100,000+ hospital encounters  
 - **Features:** Patient demographics, diagnoses, medications, hospital stays, outcomes  
@@ -38,7 +38,7 @@ The Tableau dashboard includes:
 
 ---
 
-## 🚀 How to View
+## 📊📎 How to View
 You can explore the live dashboard on **[Tableau Public](#)** *([https://public.tableau.com/app/profile/mobina.kherimohammad/viz/Tableau-Project-Hospital-Patient-Records/HospitalPatientRecords?publish=yes])*  
 or download the `.twbx` file in this folder to open it locally.
 
@@ -50,5 +50,6 @@ or download the `.twbx` file in this folder to open it locally.
 | `Tableau-Project-Hospital-Patient-Records.twb` | Tableau workbook |
 | `hospital_patient_records_cleaned.xlsx` | Cleaned data used for Tableau |
 | `README.md` | Project description (this file) |
+
 
 
