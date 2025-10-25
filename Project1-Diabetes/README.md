@@ -33,6 +33,15 @@ The analysis focuses on **medication usage patterns**, **treatment outcomes**, a
  
 
 ---
+## 📁 Files in This Folder
+| File | Description |
+|------|--------------|
+| `MySQL-project-script.sql` | MySQL script  |
+| `PowerBI-dashboard.jpg` | Image of visualizations dashboard in Power BI |
+|`Visualization.pbix`| Microsoft Power BI file|
+|`diabetic_data_cleaned.xlsx`| data in Excel workbook |
+| `README.md` | Project description (this file) |
+
 
 
 
