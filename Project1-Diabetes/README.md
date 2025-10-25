@@ -34,7 +34,6 @@ The analysis focuses on **medication usage patterns**, **treatment outcomes**, a
 
 ---
 
-[Dashboard Screenshot](Project1-Diabetes/PowerBI-dashboard.jpg)
 
 
 
