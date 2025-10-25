@@ -59,7 +59,7 @@ Each of these variables contributes to understanding how different nations rank 
 - Correlation heatmap 
 - GDP vs Happiness (strongst correlation) & Generosity vs Happiness (weakest correlation) (scatter plots)
 - Happiness over time (line chart)  
-- Trands across years in Iran 
+- Trends across years in Iran 
 
 ---
 
@@ -70,5 +70,6 @@ Each of these variables contributes to understanding how different nations rank 
 | `World-Happiness-Report-cleaned-dataset.xlsx` | cleaned data in Excel workbook |
 | `2019_cleaned.csv` | CSV file for 2019 data |
 | `README.md` | Project description (this file) |
+
 
 
